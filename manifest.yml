@@ -1,0 +1,7 @@
+---
+applications:
+- name: playpen
+  memory: 256M
+  instances: 1
+  url: playpen.cfapps.io
+  path: .
